@@ -11,4 +11,9 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this notebook, we  build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-Download the dataset [titanic.csv]() and place in the same directory. 
+Download the dataset [titanic.csv](https://github.com/AbhiAnanD100/Titanic-Machine-Learning-from-Disaster/blob/master/titanic.csv) and place in the same directory. 
+
+libraries used : [numpy](https://numpy.org/doc/stable/)  ,  [pandas](https://pandas.pydata.org/docs/)  , [seaborn](https://seaborn.pydata.org/)  ,  [scipy](https://www.scipy.org/)
+
+
+After using suitable data processing and machine learning techniques, we achieve around 93 % accuracy. 
