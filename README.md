@@ -13,7 +13,7 @@ In this notebook, we  build a predictive model that answers the question: “wha
 
 Download the dataset [titanic.csv](https://github.com/AbhiAnanD100/Titanic-Machine-Learning-from-Disaster/blob/master/titanic.csv) and place in the same directory. 
 
-libraries used : [numpy](https://numpy.org/doc/stable/)  ,  [pandas](https://pandas.pydata.org/docs/)  , [seaborn](https://seaborn.pydata.org/)  ,  [scipy](https://www.scipy.org/)
+libraries used : [numpy](https://numpy.org/doc/stable/)  ,  [pandas](https://pandas.pydata.org/docs/)  , [seaborn](https://seaborn.pydata.org/)  ,  [scipy](https://www.scipy.org/) and other ML libraries
 
 
 After using suitable data processing and machine learning techniques, we achieve around 93 % accuracy. 
